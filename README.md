@@ -10,8 +10,6 @@ I am an undergraduate student at Chongqing University, majoring in Mechanical En
 * **Theoretical Physics:** Thermodynamics, Minkowski spacetime, and four-vector kinematics.
 * **Applied Mathematics:** Numerical methods for differential equations, heuristic optimization algorithms, and state estimation.
 
-> **Bridging the gap between complex hardware dynamics and intelligent algorithms.**
-
 ---
 
 ### 🛠️ Tech Stack
