@@ -24,11 +24,14 @@ I am an undergraduate student at Chongqing University, majoring in Mechanical En
 
 ### 📝 Publications
 
-* 📄 **Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection** *IEEE/CAA Journal of Automatica Sinica* (Accepted) | [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897)
+* 📄 Lun Zhou, Huiping Li, **Long Chen**, et al. **Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection**, *IEEE/CAA Journal of Automatica Sinica*, **2026**. [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897) **(Accepted)**
 
-* 📄 **Mitigating Overconfidence in Cascade Failures via Topology-Adaptive Truncation Model and GS-MOPSO** *Defence Technology* (Under Review)
+* 📄 **Long Chen** <sup>*</sup>, Lun Zhou <sup>*</sup>, Jun Luo, et al. **Mitigating Overconfidence in Cascade Failures via Topology-Adaptive Truncation Model and GS-MOPSO**, *Defence Technology*. **(Under Review)** *(<sup>*</sup> Equal contribution)*
 
 ### 🔭 Projects
-* **6-DOF Underwater Robots:** Developing decoupled motion control and visual servoing systems (C++/ROS2) for asymmetric vector propulsion.
-* **Multi-Agent Systems & WTA:** Modeling cascade failures and optimizing weapon-target assignment using heuristic algorithms and numerical methods.
-* **SmartCar:** Writing high-speed trajectory tracking and computer vision algorithms.
+
+* **6-DOF Underwater Robots:** Developing decoupled motion control and visual servoing systems (C++/ROS2) for asymmetric vector propulsion. `[Closed Source - Pending Publication]`
+* **Multi-Agent Systems & WTA:** Modeling cascade failures and optimizing weapon-target assignment using heuristic algorithms and numerical methods. `[Closed Source - Pending Publication]`
+* **[SmartCar Autonomous System](你的智能车GitHub仓库链接):** Writing high-speed trajectory tracking and computer vision algorithms.
+
+---
