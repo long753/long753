@@ -1,10 +1,18 @@
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" alt="Robotics & Tech Banner" width="100%" style="border-radius: 10px;">
-
 # Hi there, I'm Long Chen 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ROBOTICS+PHYSICS+MATHEMATICS;C%2B%2B+%2F+ROS2+Developer;Algorithm+Optimization" alt="Typing SVG" /></a>
+</div>
 
-> **Robotics Enthusiast | Autonomous Systems | C++ Developer**
+I am an undergraduate student at Chongqing University, majoring in Mechanical Engineering. My passion lies at the intersection of rigid-body dynamics, advanced numerical analysis, and theoretical physics. I am currently seeking a direct Ph.D. position to further explore intelligent control and autonomous systems.
 
-I enjoy building systems that bridge the gap between complex hardware dynamics and intelligent algorithms. My current research focuses on robotic control, optimization (WTA problems), and autonomous perception. 
+**🔭 Research Interests:**
+* **Robotics & AI:** Deep Reinforcement Learning (DRL) for continuous control, visual servoing, and Embodied AI.
+* **Theoretical Physics:** Thermodynamics, Minkowski spacetime, and four-vector kinematics.
+* **Applied Mathematics:** Numerical methods for differential equations, heuristic optimization algorithms, and state estimation.
+
+> **Bridging the gap between complex hardware dynamics and intelligent algorithms.**
+
+---
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -16,19 +24,19 @@ I enjoy building systems that bridge the gap between complex hardware dynamics a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🔭 What I'm currently working on
-* **6-DOF Underwater Robots:** Developing decoupled motion control and visual servoing systems (C++/ROS2) for asymmetric vector propulsion.
-* **Multi-Agent Systems & WTA:** Modeling cascade failures and optimizing weapon-target assignment using heuristic algorithms and numerical methods.
-* **Autonomous Vehicles:** Writing high-speed trajectory tracking and computer vision algorithms.
-
-### 📝 Selected Publications
+### 📝 Publications
 
 * 📄 **Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection** *IEEE/CAA Journal of Automatica Sinica* (Accepted) | [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897)
 
 * 📄 **Mitigating Overconfidence in Cascade Failures via Topology-Adaptive Truncation Model and GS-MOPSO** *Defence Technology* (Under Review)
 
-### 🔗 Let's Connect
-<p align="left">
-  <a href="https://long753.github.io/"><img src="https://img.shields.io/badge/Website-Personal_Blog-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:cl2848077709@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+### 🔭 Projects
+* **6-DOF Underwater Robots:** Developing decoupled motion control and visual servoing systems (C++/ROS2) for asymmetric vector propulsion.
+* **Multi-Agent Systems & WTA:** Modeling cascade failures and optimizing weapon-target assignment using heuristic algorithms and numerical methods.
+* **Autonomous Vehicles:** Writing high-speed trajectory tracking and computer vision algorithms.
+
+---
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=long753&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
