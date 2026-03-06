@@ -31,4 +31,4 @@ I am an undergraduate student at Chongqing University, majoring in Mechanical En
 ### 🔭 Projects
 * **6-DOF Underwater Robots:** Developing decoupled motion control and visual servoing systems (C++/ROS2) for asymmetric vector propulsion.
 * **Multi-Agent Systems & WTA:** Modeling cascade failures and optimizing weapon-target assignment using heuristic algorithms and numerical methods.
-* **Autonomous Vehicles:** Writing high-speed trajectory tracking and computer vision algorithms.
+* **SmartCar:** Writing high-speed trajectory tracking and computer vision algorithms.
