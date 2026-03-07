@@ -19,7 +19,7 @@ I'm Long Chen, an undergraduate student at the School of Mechanical Engineering,
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MATLAB-e25f1c?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
@@ -44,5 +44,5 @@ I'm Long Chen, an undergraduate student at the School of Mechanical Engineering,
 
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flong753&count_bg=%2358A6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=long753&style=for-the-badge&label=PROFILE+VIEWS&color=58A6FF" alt="Visitor Count" />
 </p>
