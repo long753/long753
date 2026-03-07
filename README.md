@@ -41,3 +41,9 @@ I'm Long Chen, an undergraduate student at the School of Mechanical Engineering,
 * 📄 **Long Chen\***, Lun Zhou\*, Jun Luo, et al. "Mitigating Overconfidence in Cascade Failures via Topology-Adaptive Truncation Model and GS-MOPSO," *Defence Technology*. **(Under Review)**
 
 ---
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/long753/count.svg" alt="Visitor Count" />
+</p>
