@@ -34,9 +34,9 @@ I'm Long Chen, an undergraduate student at the School of Mechanical Engineering,
 
 ### 📝 Publications
 
-* 📄 **Long Chen\***, Lun Zhou\*, Jun Luo, et al. "Mitigating Overconfidence in Cascade Failures via Topology-Adaptive Truncation Model and GS-MOPSO," *Computers & Industrial Engineering*. **(Under Review)**
+* 📄 Lun Zhou\*, **Long Chen\***, Shuang Pan, Huayan Pu, Jun Luo, Fuqiang Liu. "CF-DWTA: Cascading-Failure Modeling and Multiobjective Optimization in Dense Target Scenarios," *Computers & Industrial Engineering*. **(Ready to Submit)**
 
-* 📄 Lun Zhou, Huiping Li, **Long Chen**, et al. "Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection," *IEEE/CAA Journal of Automatica Sinica*, 2026. [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897) **(Accepted)**
+* 📄 Lun Zhou, Huiping Li, **Long Chen**, Fuqiang Liu, Huayan Pu. "Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection," *IEEE/CAA Journal of Automatica Sinica*, 2026. [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897) **(Accepted)**
 
 
 ---
