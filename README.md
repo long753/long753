@@ -34,7 +34,7 @@ I'm Long Chen, an undergraduate student at the School of Mechanical Engineering,
 
 ### 📝 Publications
 
-* 📄 Lun Zhou\*, **Long Chen\***, Shuang Pan, Huayan Pu, Jun Luo, Fuqiang Liu. "CF-DWTA: Cascading-Failure Modeling and Multiobjective Optimization in Dense Target Scenarios," *Computers & Industrial Engineering*. **(Under Review)**
+* 📄 XX. "CF-DWTA: Cascading-Failure Modeling and Multiobjective Optimization in Dense Target Scenarios," *Computers & Industrial Engineering*. **(Under Review)**
 
 * 📄 Lun Zhou, Huiping Li, **Long Chen**, Fuqiang Liu, Huayan Pu. "Enhancing Air Defense Decision Reliability: A Bi-level Cooperative Task Assignment Algorithm for Fortress Protection," *IEEE/CAA Journal of Automatica Sinica*, 2026. [DOI: 10.1109/JAS.2026.125897](https://doi.org/10.1109/JAS.2026.125897) **(Accepted)**
 
