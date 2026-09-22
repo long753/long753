@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Welcome to my GitHub!
+Welcome to my profile!
 
 I'm **Long Chen**, an undergraduate student at **Chongqing University** and an incoming Ph.D. student at **Zhejiang University**. My research focuses on embodied intelligence and robotics. I'll share my projects, code, learning notes, and other interesting tools here. I hope you can find something useful.
 
