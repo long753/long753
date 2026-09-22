@@ -8,5 +8,7 @@ Welcome to my GitHub!
 
 I'm **Long Chen**, an undergraduate student at **Chongqing University** and an incoming Ph.D. student at **Zhejiang University**. My research focuses on embodied intelligence and robotics. I'll share my projects, code, learning notes, and other interesting tools here. I hope you can find something useful.
 
+---
+
 * View my projects and research notes on [My Personal Website](https://long753.github.io/).
 * Contact me at [cl2848077709@gmail.com](mailto:cl2848077709@gmail.com).
