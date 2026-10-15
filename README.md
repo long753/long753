@@ -11,4 +11,4 @@ I'm **Long Chen**, an undergraduate student at **Chongqing University** and an i
 ---
 
 * View my research and learning notes on [My Personal Website](https://long753.github.io/).
-* Contact me at [cl2848077709@gmail.com](mailto:cl2848077709@gmail.com).
+* Contact me at [longchen.bot@gmail.com](mailto:longchen.bot).
